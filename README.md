@@ -9,6 +9,10 @@ I'm an indie full-stack developer building my version of the world one line at a
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beelal-k&repo=to-do-list&theme=dark&border_color=000000)](https://github.com/beelal-k/to-do-list)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beelal-k&repo=the-outnet-clone&theme=dark&border_color=000000)](https://github.com/beelal-k/the-outnet-clone)
+
+### Currently working on:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beelal-k&repo=the-outnet-clone&theme=dark&border_color=000000)](https://github.com/beelal-k/realtime-chat-app)
+
 ---
 ## Languages and Tools
 
