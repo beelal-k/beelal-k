@@ -1,4 +1,11 @@
-### Hi there 👋
+#  👋 Khawaja Muhammad Bilal
+
+**`Web Developer`**
+
+I'm an indie full-stack developer building my version of the world one line at a time. All of my projects are built from the ground up, starting from the planning phase all the way to deployment. I have a knack for building minimal and simplistic designs. You can check out what I've built here, on github, or through my website: **https://beelal-k.github.io/**
+
+---
+
 
 <!--
 **beelal-k/beelal-k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
