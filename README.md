@@ -2,10 +2,16 @@
 
 **`Web Developer`**
 
-I'm an indie full-stack developer building my version of the world one line at a time. All of my projects are built from the ground up, starting from the planning phase all the way to deployment. I have a knack for building minimal and simplistic designs. You can check out what I've built here, on github, or through my website: **https://beelal-k.github.io/**
+I'm an indie full-stack developer building my version of the world one line at a time. All of my projects are built from the ground up, starting from the planning phase all the way to deployment. I have a knack for building minimal and simplistic designs. You can check out what I've built, on my website: **https://beelal-k.github.io/**
 
+**OR**
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beelal-k&repo=to-do-list&theme=dark&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beelal-k&repo=the-outnet-clone&theme=dark&border_color=000000)](https://github.com/anuraghazra/github-readme-stats)
 ---
-## 🧰 Languages and Tools
+## Languages and Tools
+
 
 <img align="left" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -20,8 +26,11 @@ I'm an indie full-stack developer building my version of the world one line at a
 <img align="left" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
 <br>
 
-
 #
+<br>
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beelal-k&show_icons=true&theme=dracula&border_color=000000)
 
 
 <!--
