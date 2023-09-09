@@ -9,7 +9,7 @@ I'm an indie full-stack developer building my version of the world one line at a
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beelal-k&repo=the-outnet-clone&theme=dark&border_color=000000)](https://github.com/beelal-k/the-outnet-clone)
 
 ### Latest Project:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beelal-k&repo=packit&theme=dark&border_color=000000)](https://github.com/beelal-k/packit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beelal-k&repo=packit-cli&theme=dark&border_color=000000)](https://github.com/beelal-k/packit-cli)
 
 ---
 ## Languages and Tools
