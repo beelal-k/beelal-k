@@ -4,9 +4,6 @@
 
 I'm an indie full-stack developer building my version of the world one line at a time. All of my projects are built from the ground up, starting from the planning phase all the way to deployment. I have a knack for building minimal and simplistic designs. You can check out what I've built, on my website: **https://beelal-k.github.io/** or:
 
-### Latest Project:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=beelal-k&repo=packit-cli&theme=dark&border_color=000000)](https://github.com/beelal-k/packit-cli)
-
 ---
 ## Languages and Tools
 
