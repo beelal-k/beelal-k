@@ -1,25 +1,3 @@
-#  👋 Khawaja Muhammad Bilal
+#  Sup, I'm Bilal
 
-**`Web Developer`**
-
-I'm an indie full-stack developer building my version of the world one line at a time. All of my projects are built from the ground up, starting from the planning phase all the way to deployment. I have a knack for building minimal and simplistic designs. You can check out what I've built, on my website: **https://beelal-k.github.io/**
-
----
-## Languages and Tools
-
-
-<img align="left" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-<img align="left"  alt="React" width="40px" style="padding-right:px; background-color:white;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:20px; padding-left:20px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" />
-<img align="left" alt="React" width="40px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-<br>
-
+I'm an indie software engineer. All of my projects are built from the ground up, starting from the planning phase all the way to deployment. I have a knack for building minimal and simplistic designs. You can check out what I've built, on my website: **https://beelal-k.github.io/** (Although it has projects that are 3 years old)
